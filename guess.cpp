@@ -39,7 +39,7 @@ attemp++;
 }//loop end
 cout<<"\n";
 if(_won){
-  cout<<"THANKS FOR PLAYING!! PLESE GIVE A STAR"<<endl;
+  cout<<"THANKS FOR PLAYING!!"<<endl;
 }
 else{
   cout<<"Sorry you lost! correct answer is: "<<ans<<endl<<"Please play again"<<endl;
